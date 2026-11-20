@@ -1,0 +1,7 @@
+#include "Res/view_debugDlg.rc"
+#include "Res/set_debugDlg.rc"
+//#include "Res/driver_installMnu.rc"
+#include "Res/driver_installDlg.rc"
+#include "Res/driver_installVer.rc"
+#include  "resource.h"
+1 24 "manifest.xml"
